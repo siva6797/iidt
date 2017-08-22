@@ -14,8 +14,8 @@ $DBMS = 'MySQL';
 # Please use a database dedicated to DVWA.
 
 $_DVWA = array();
-$_DVWA[ 'db_server' ] = '127.6.87.130';
-$_DVWA[ 'db_database' ] = 'vuln';
+$_DVWA[ 'db_server' ] = '127.11.49.2';
+$_DVWA[ 'db_database' ] = 'php';
 $_DVWA[ 'db_user' ] = 'adminRLRDFZj';
 $_DVWA[ 'db_password' ] = 'STM7n3gg_KHP';
 
