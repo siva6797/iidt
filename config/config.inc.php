@@ -14,10 +14,10 @@ $DBMS = 'MySQL';
 # Please use a database dedicated to DVWA.
 
 $_DVWA = array();
-$_DVWA[ 'db_server' ] = '127.11.49.2';
-$_DVWA[ 'db_database' ] = 'php';
-$_DVWA[ 'db_user' ] = 'adminHqVGCpT';
-$_DVWA[ 'db_password' ] = 'Sk-rbKcZtUL-';
+$_DVWA[ 'db_server' ] = '127.6.61.2';
+$_DVWA[ 'db_database' ] = 'pro';
+$_DVWA[ 'db_user' ] = 'admin8a9zUMc';
+$_DVWA[ 'db_password' ] = 'WWAm9VR_Pn-D';
 
 # Only needed for PGSQL
 $_DVWA[ 'db_port' ] = '3306'; 
