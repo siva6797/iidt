@@ -16,8 +16,8 @@ $DBMS = 'MySQL';
 $_DVWA = array();
 $_DVWA[ 'db_server' ] = '127.11.49.2';
 $_DVWA[ 'db_database' ] = 'php';
-$_DVWA[ 'db_user' ] = 'adminRLRDFZj';
-$_DVWA[ 'db_password' ] = 'STM7n3gg_KHP';
+$_DVWA[ 'db_user' ] = 'adminHqVGCpT';
+$_DVWA[ 'db_password' ] = 'Sk-rbKcZtUL-';
 
 # Only needed for PGSQL
 $_DVWA[ 'db_port' ] = '3306'; 
